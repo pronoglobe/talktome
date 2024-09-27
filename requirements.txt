@@ -7,3 +7,7 @@ langchain_core
 langchain-google-genai # This package contains the LangChain integrations for the Gemini API.
 Pillow # PIL image-loading library
 flask
+
+# talktome
+spacy
+torch # cpu only
